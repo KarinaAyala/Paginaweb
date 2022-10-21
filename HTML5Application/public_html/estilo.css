@@ -1,0 +1,11 @@
+.form_vehiculo{
+    max-width: 25em;
+    padding: 1.3em;
+    margin: 0 auto;
+    background-color:rgba(120, 119, 123, 0.3);
+    font-weight: bold;
+    border-radius: 0.5em;
+    box-shadow: inset 1px 1px 22px 4px;
+    background: url(https://thumbs.dreamstime.com/b/fondo-de-colores-vivos-abstractos-burbujas-manchas-y-agua-macro-multicolores-difuminados-163727765.jpg) no-repeat 0px 0px;
+    
+}
